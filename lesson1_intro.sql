@@ -6,11 +6,11 @@
     SQL: structure query language
 
     - Primary key : Each row data in a table can be
-    uniquly identfied by a primary key 
+    uniquely identified by a primary key 
     (not null , unique)
     
     
-    - Foreign key: You can loggiclly relate data 
+    - Foreign key: You can logically relate data 
     from multiple tables using it
 
     - To Access Oracle Database using :
@@ -30,7 +30,7 @@
     2- alter
     3- drop
     4- rename
-    5- trancate
+    5- truncate
     6- comment
 
     - DML (Data Control Language) :
